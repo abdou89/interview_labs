@@ -11,7 +11,3 @@
 3. Proposer et implémenter des améliorations.
 4. Justifier les choix architecturaux.
 
-## Objectifs évalués
-- Compréhension performance SQL
-- Optimisation .NET (Dapper, async, structure API)
-- Capacité à refactorer proprement
